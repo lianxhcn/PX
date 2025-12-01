@@ -79,7 +79,7 @@ $$
 \ln(1+\text{conflict}*{cqw})=\alpha+\beta,\text{PostQual}*{cqw}+\theta_c+\rho_q+\delta_w+\tau_{cq}+\varepsilon_{cqw}
 $$
 
-其中 $c$ 为国家，$q$ 为预选赛 campaign，$w$ 为周。$\tau_{cq}$ 表示国家 × campaign 固定效应，吸收一国在某次预选赛阶段的总体水平；$\delta_w$ 等时间固定效应吸收共同时间冲击。PostQual 表示在「预选赛结束后 25 周」内，且只在 close qualification 样本中比较「险胜晋级」与「险负出局」。
+其中，$c$ 为国家，$q$ 为预选赛 campaign，$w$ 为周。$\tau_{cq}$ 表示国家 × campaign 固定效应，吸收一国在某次预选赛阶段的总体水平；$\delta_w$ 等时间固定效应吸收共同时间冲击。PostQual 表示在「预选赛结束后 25 周」内，且只在 close qualification 样本中比较「险胜晋级」与「险负出局」。
 
 这一步的识别要点是：把「晋级」当作国家层面的共同经历冲击，而 close qualification 让晋级与否更接近「不可精确操控的边缘结果」。在此框架下，$\beta<0$ 可以解释为：晋级带来的短期国家认同与社会凝聚提升，使得冲突事件在随后一段时间内下降。
 
